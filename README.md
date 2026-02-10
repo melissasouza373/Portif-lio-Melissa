@@ -1,6 +1,6 @@
 # Portfólio-Melissa Souza 👩🏽‍💻
 
-Bem-Vindo(a) ao meu portifólio!
+Bem-Vindo(a) ao meu portfólio!
 Aqui compartilho alguns dos meus projetos desenvolvidos durante meus estudos em **Front-end**.
 Sou iniciante na área de Dsenvolvimento, mas estou em constante aprendizado e evolução 🚀
 ---
