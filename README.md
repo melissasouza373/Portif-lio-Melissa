@@ -1,4 +1,4 @@
-# Portifólio-Melissa Souza 👩🏽‍💻
+# Portfólio-Melissa Souza 👩🏽‍💻
 
 Bem-Vindo(a) ao meu portifólio!
 Aqui compartilho alguns dos meus projetos desenvolvidos durante meus estudos em **Front-end**.
