@@ -77,7 +77,7 @@
   }
 
   ul a {
-   
+
       color: #6a0dad;
       text-decoration: none;
       position: relative;
@@ -87,18 +87,18 @@
   }
 
   ul a::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -5px;
-    width: 0;
-    height: 2px;
-    background: #6a0dad;
-    transition: 0.3s;
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -5px;
+      width: 0;
+      height: 2px;
+      background: #6a0dad;
+      transition: 0.3s;
   }
 
   ul a:hover::after {
-    width: 100%;
+      width: 100%;
   }
 
 
